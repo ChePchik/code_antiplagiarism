@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "esgraph": "^0.3.0",
+    "esprima": "^4.0.1"
+  }
+}
